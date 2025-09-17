@@ -1,0 +1,8 @@
+#This is a message (I forgot the name of the actual thing) ;(
+
+#Hide these folders
+hiddendir/
+bin/
+
+#Hide all files with these extensions
+*.tmp
