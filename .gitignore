@@ -3,6 +3,3 @@
 #Hide these folders
 hiddendir/
 bin/
-
-#Hide all files with these extensions
-*.tmp
